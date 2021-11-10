@@ -1,1 +1,3 @@
-# Abram31-WebPack_test
+# Webpack. Полный курс 2020
+
+https://www.youtube.com/watch?v=eSaF8NXeNsA 
